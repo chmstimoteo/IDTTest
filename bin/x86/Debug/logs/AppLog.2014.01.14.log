@@ -1,0 +1,134 @@
+2014-01-14 08:26:15,903 [9    ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 08:26:22,163 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 08:30:28,311 [9    ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 08:32:15,393 [9    ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 08:39:59,502 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 08:48:48,850 [8    ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 08:53:48,608 [8    ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 08:55:25,136 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 08:55:59,638 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 08:57:50,346 [11   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 08:58:30,261 [9    ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 09:11:38,069 [9    ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 09:11:50,815 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 09:11:56,463 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 09:13:17,070 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 09:13:23,721 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 09:13:28,281 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 09:15:19,793 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 09:34:09,961 [9    ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 09:35:13,449 [8    ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 09:37:14,845 [9    ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 09:37:19,470 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 09:37:23,179 [9    ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 10:23:43,269 [8    ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 10:30:46,848 [8    ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 10:30:57,427 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 10:43:02,724 [8    ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 10:54:28,833 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 11:22:30,431 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 14:45:51,821 [8    ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 14:46:50,521 [9    ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 14:47:40,910 [9    ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 14:48:19,912 [9    ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 14:48:48,124 [8    ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 14:50:11,439 [9    ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 14:56:28,320 [9    ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 14:57:16,418 [8    ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 14:57:23,405 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 14:57:29,192 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 14:57:34,949 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 14:57:40,671 [9    ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 14:57:46,195 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 14:57:52,523 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 15:02:54,658 [8    ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 15:09:05,663 [8    ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 15:10:31,013 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 15:10:42,172 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 15:11:44,376 [9    ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 15:12:10,231 [9    ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 15:12:21,804 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 15:16:14,457 [9    ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 15:17:07,639 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 15:18:54,535 [8    ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 15:19:20,411 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 15:21:04,996 [9    ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 15:21:14,229 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 15:22:40,653 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 15:24:27,059 [9    ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 15:24:43,239 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 15:24:57,252 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 15:25:33,533 [9    ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 15:25:50,851 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 15:26:32,449 [12   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:26:49,925 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 15:27:02,100 [9    ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 15:29:55,537 [8    ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 15:30:31,042 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 15:30:50,404 [9    ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 15:31:01,168 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 15:31:17,933 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 15:31:49,402 [9    ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 15:32:01,212 [11   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 15:32:24,970 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 15:33:20,643 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 15:35:13,066 [8    ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 15:35:30,835 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 15:35:55,509 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 15:36:45,572 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 15:37:06,737 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 15:38:40,232 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 15:39:07,960 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 15:39:38,507 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 15:39:51,069 [9    ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 15:42:10,335 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 15:42:20,786 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 15:42:45,933 [11   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-14 15:42:46,097 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:46,192 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:46,252 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:46,354 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:46,477 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:46,543 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:46,646 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:46,723 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:46,786 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:46,834 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:46,950 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:47,005 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:47,124 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:47,171 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:47,290 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:47,340 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:47,407 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:47,501 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:47,556 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:47,589 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:47,663 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:47,727 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:47,775 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:47,826 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:47,920 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:47,981 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:48,026 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:48,091 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:48,153 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:48,205 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:48,255 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:48,306 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:48,371 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:48,431 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:48,462 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:48,530 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:48,602 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:48,658 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:48,768 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:48,828 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:48,904 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:48,969 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:49,087 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:49,188 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:49,327 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:49,407 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:42:49,526 [14   ] WARN  DSASimpesFaipBridge.Roller.Device.RollerDevice 1228 - Roller driver is disconnected
+2014-01-14 15:43:31,844 [9    ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31

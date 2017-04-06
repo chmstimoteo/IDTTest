@@ -1,0 +1,3 @@
+2014-01-13 17:46:03,886 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-13 17:56:18,972 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31
+2014-01-13 17:56:26,412 [10   ] INFO  DSASimpesFaipBridge.Roller.Device.RollerDevice 826 - Roller driver initialized. IpServer: 192.168.1.10 TimerPolling: 100 TimerConnectionLost: 2000 ServerPort: 2000 ClientPort: 2001 IdClient: 31

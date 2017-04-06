@@ -1,0 +1,67 @@
+2013-11-06 15:07:23,372 [8    ] INFO  IDTTest.Program 63 - Entering application.
+2013-11-06 15:08:43,519 [7    ] INFO  IDTTest.Program 63 - Entering application.
+2013-11-06 15:09:11,085 [8    ] ERROR IDTModule.UDPCommunicator 105 - System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 size, SocketFlags socketFlags)
+   at IDTModule.UDPCommunicator.ManageReceive() in d:\Work\Corghi\OPALGateway\IDTModule\UDPCommunicator.cs:line 157
+   at IDTModule.UDPCommunicator.Func(Object param) in d:\Work\Corghi\OPALGateway\IDTModule\UDPCommunicator.cs:line 100
+2013-11-06 15:10:25,562 [10   ] ERROR IDTModule.UDPCommunicator 105 - System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 size, SocketFlags socketFlags)
+   at IDTModule.UDPCommunicator.ManageReceive() in d:\Work\Corghi\OPALGateway\IDTModule\UDPCommunicator.cs:line 157
+   at IDTModule.UDPCommunicator.Func(Object param) in d:\Work\Corghi\OPALGateway\IDTModule\UDPCommunicator.cs:line 100
+2013-11-06 15:10:25,838 [10   ] ERROR IDTModule.UDPCommunicator 105 - System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 size, SocketFlags socketFlags)
+   at IDTModule.UDPCommunicator.ManageReceive() in d:\Work\Corghi\OPALGateway\IDTModule\UDPCommunicator.cs:line 157
+   at IDTModule.UDPCommunicator.Func(Object param) in d:\Work\Corghi\OPALGateway\IDTModule\UDPCommunicator.cs:line 100
+2013-11-06 15:10:25,947 [10   ] ERROR IDTModule.UDPCommunicator 105 - System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 size, SocketFlags socketFlags)
+   at IDTModule.UDPCommunicator.ManageReceive() in d:\Work\Corghi\OPALGateway\IDTModule\UDPCommunicator.cs:line 157
+   at IDTModule.UDPCommunicator.Func(Object param) in d:\Work\Corghi\OPALGateway\IDTModule\UDPCommunicator.cs:line 100
+2013-11-06 15:10:26,156 [10   ] ERROR IDTModule.UDPCommunicator 105 - System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 size, SocketFlags socketFlags)
+   at IDTModule.UDPCommunicator.ManageReceive() in d:\Work\Corghi\OPALGateway\IDTModule\UDPCommunicator.cs:line 157
+   at IDTModule.UDPCommunicator.Func(Object param) in d:\Work\Corghi\OPALGateway\IDTModule\UDPCommunicator.cs:line 100
+2013-11-06 15:10:26,306 [10   ] ERROR IDTModule.UDPCommunicator 105 - System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 size, SocketFlags socketFlags)
+   at IDTModule.UDPCommunicator.ManageReceive() in d:\Work\Corghi\OPALGateway\IDTModule\UDPCommunicator.cs:line 157
+   at IDTModule.UDPCommunicator.Func(Object param) in d:\Work\Corghi\OPALGateway\IDTModule\UDPCommunicator.cs:line 100
+2013-11-06 15:10:26,495 [10   ] ERROR IDTModule.UDPCommunicator 105 - System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 size, SocketFlags socketFlags)
+   at IDTModule.UDPCommunicator.ManageReceive() in d:\Work\Corghi\OPALGateway\IDTModule\UDPCommunicator.cs:line 157
+   at IDTModule.UDPCommunicator.Func(Object param) in d:\Work\Corghi\OPALGateway\IDTModule\UDPCommunicator.cs:line 100
+2013-11-06 15:10:26,684 [10   ] ERROR IDTModule.UDPCommunicator 105 - System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 size, SocketFlags socketFlags)
+   at IDTModule.UDPCommunicator.ManageReceive() in d:\Work\Corghi\OPALGateway\IDTModule\UDPCommunicator.cs:line 157
+   at IDTModule.UDPCommunicator.Func(Object param) in d:\Work\Corghi\OPALGateway\IDTModule\UDPCommunicator.cs:line 100
+2013-11-06 15:10:26,853 [10   ] ERROR IDTModule.UDPCommunicator 105 - System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 size, SocketFlags socketFlags)
+   at IDTModule.UDPCommunicator.ManageReceive() in d:\Work\Corghi\OPALGateway\IDTModule\UDPCommunicator.cs:line 157
+   at IDTModule.UDPCommunicator.Func(Object param) in d:\Work\Corghi\OPALGateway\IDTModule\UDPCommunicator.cs:line 100
+2013-11-06 15:10:27,046 [10   ] ERROR IDTModule.UDPCommunicator 105 - System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 size, SocketFlags socketFlags)
+   at IDTModule.UDPCommunicator.ManageReceive() in d:\Work\Corghi\OPALGateway\IDTModule\UDPCommunicator.cs:line 157
+   at IDTModule.UDPCommunicator.Func(Object param) in d:\Work\Corghi\OPALGateway\IDTModule\UDPCommunicator.cs:line 100
+2013-11-06 15:11:12,751 [10   ] ERROR IDTModule.UDPCommunicator 105 - System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 size, SocketFlags socketFlags)
+   at IDTModule.UDPCommunicator.ManageReceive() in d:\Work\Corghi\OPALGateway\IDTModule\UDPCommunicator.cs:line 157
+   at IDTModule.UDPCommunicator.Func(Object param) in d:\Work\Corghi\OPALGateway\IDTModule\UDPCommunicator.cs:line 100
+2013-11-06 15:11:12,942 [10   ] ERROR IDTModule.UDPCommunicator 105 - System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 size, SocketFlags socketFlags)
+   at IDTModule.UDPCommunicator.ManageReceive() in d:\Work\Corghi\OPALGateway\IDTModule\UDPCommunicator.cs:line 157
+   at IDTModule.UDPCommunicator.Func(Object param) in d:\Work\Corghi\OPALGateway\IDTModule\UDPCommunicator.cs:line 100
+2013-11-06 15:11:13,113 [10   ] ERROR IDTModule.UDPCommunicator 105 - System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 size, SocketFlags socketFlags)
+   at IDTModule.UDPCommunicator.ManageReceive() in d:\Work\Corghi\OPALGateway\IDTModule\UDPCommunicator.cs:line 157
+   at IDTModule.UDPCommunicator.Func(Object param) in d:\Work\Corghi\OPALGateway\IDTModule\UDPCommunicator.cs:line 100
