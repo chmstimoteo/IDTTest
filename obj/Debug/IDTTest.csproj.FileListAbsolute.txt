@@ -40,3 +40,32 @@ D:\Work\Corghi\Nambuco\IDT\IDTTest\bin\Debug\Microsoft.Practices.Unity.xml
 D:\Work\Corghi\Nambuco\IDT\IDTTest\obj\Debug\IDTTest.csprojResolveAssemblyReference.cache
 D:\Work\Corghi\Nambuco\IDT\IDTTest\obj\Debug\IDTTest.exe
 D:\Work\Corghi\Nambuco\IDT\IDTTest\obj\Debug\IDTTest.pdb
+F:\Backup\TIOs\Rulli\SourceCode\BRIDGE-TO-MERGE\version 1.4\Bridge_1-11-2014_ok\IDT\IDTTest\bin\Debug\Config\Config.ini
+F:\Backup\TIOs\Rulli\SourceCode\BRIDGE-TO-MERGE\version 1.4\Bridge_1-11-2014_ok\IDT\IDTTest\bin\Debug\App.config
+F:\Backup\TIOs\Rulli\SourceCode\BRIDGE-TO-MERGE\version 1.4\Bridge_1-11-2014_ok\IDT\IDTTest\bin\Debug\Path.ini
+F:\Backup\TIOs\Rulli\SourceCode\BRIDGE-TO-MERGE\version 1.4\Bridge_1-11-2014_ok\IDT\IDTTest\bin\Debug\IDTTest.exe.config
+F:\Backup\TIOs\Rulli\SourceCode\BRIDGE-TO-MERGE\version 1.4\Bridge_1-11-2014_ok\IDT\IDTTest\bin\Debug\IDTTest.exe
+F:\Backup\TIOs\Rulli\SourceCode\BRIDGE-TO-MERGE\version 1.4\Bridge_1-11-2014_ok\IDT\IDTTest\bin\Debug\IDTTest.pdb
+F:\Backup\TIOs\Rulli\SourceCode\BRIDGE-TO-MERGE\version 1.4\Bridge_1-11-2014_ok\IDT\IDTTest\bin\Debug\DSASimpesFaipBridge.dll
+F:\Backup\TIOs\Rulli\SourceCode\BRIDGE-TO-MERGE\version 1.4\Bridge_1-11-2014_ok\IDT\IDTTest\bin\Debug\IDTModule.dll
+F:\Backup\TIOs\Rulli\SourceCode\BRIDGE-TO-MERGE\version 1.4\Bridge_1-11-2014_ok\IDT\IDTTest\bin\Debug\log4net.dll
+F:\Backup\TIOs\Rulli\SourceCode\BRIDGE-TO-MERGE\version 1.4\Bridge_1-11-2014_ok\IDT\IDTTest\bin\Debug\UtilityLib.dll
+F:\Backup\TIOs\Rulli\SourceCode\BRIDGE-TO-MERGE\version 1.4\Bridge_1-11-2014_ok\IDT\IDTTest\bin\Debug\OpcLibrary.dll
+F:\Backup\TIOs\Rulli\SourceCode\BRIDGE-TO-MERGE\version 1.4\Bridge_1-11-2014_ok\IDT\IDTTest\bin\Debug\AxIROLLERLib.dll
+F:\Backup\TIOs\Rulli\SourceCode\BRIDGE-TO-MERGE\version 1.4\Bridge_1-11-2014_ok\IDT\IDTTest\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\Backup\TIOs\Rulli\SourceCode\BRIDGE-TO-MERGE\version 1.4\Bridge_1-11-2014_ok\IDT\IDTTest\bin\Debug\OpcNetApi.dll
+F:\Backup\TIOs\Rulli\SourceCode\BRIDGE-TO-MERGE\version 1.4\Bridge_1-11-2014_ok\IDT\IDTTest\bin\Debug\OpcNetApi.Com.dll
+F:\Backup\TIOs\Rulli\SourceCode\BRIDGE-TO-MERGE\version 1.4\Bridge_1-11-2014_ok\IDT\IDTTest\bin\Debug\IROLLERLib.dll
+F:\Backup\TIOs\Rulli\SourceCode\BRIDGE-TO-MERGE\version 1.4\Bridge_1-11-2014_ok\IDT\IDTTest\bin\Debug\DSASimpesFaipBridge.pdb
+F:\Backup\TIOs\Rulli\SourceCode\BRIDGE-TO-MERGE\version 1.4\Bridge_1-11-2014_ok\IDT\IDTTest\bin\Debug\UtilityLib.pdb
+F:\Backup\TIOs\Rulli\SourceCode\BRIDGE-TO-MERGE\version 1.4\Bridge_1-11-2014_ok\IDT\IDTTest\bin\Debug\IDTModule.pdb
+F:\Backup\TIOs\Rulli\SourceCode\BRIDGE-TO-MERGE\version 1.4\Bridge_1-11-2014_ok\IDT\IDTTest\bin\Debug\log4net.xml
+F:\Backup\TIOs\Rulli\SourceCode\BRIDGE-TO-MERGE\version 1.4\Bridge_1-11-2014_ok\IDT\IDTTest\bin\Debug\Microsoft.Practices.Unity.pdb
+F:\Backup\TIOs\Rulli\SourceCode\BRIDGE-TO-MERGE\version 1.4\Bridge_1-11-2014_ok\IDT\IDTTest\bin\Debug\Microsoft.Practices.Unity.xml
+F:\Backup\TIOs\Rulli\SourceCode\BRIDGE-TO-MERGE\version 1.4\Bridge_1-11-2014_ok\IDT\IDTTest\bin\Debug\OpcLibrary.pdb
+F:\Backup\TIOs\Rulli\SourceCode\BRIDGE-TO-MERGE\version 1.4\Bridge_1-11-2014_ok\IDT\IDTTest\obj\Debug\IDTTest.csprojResolveAssemblyReference.cache
+F:\Backup\TIOs\Rulli\SourceCode\BRIDGE-TO-MERGE\version 1.4\Bridge_1-11-2014_ok\IDT\IDTTest\obj\Debug\IDTTest.MainForm.resources
+F:\Backup\TIOs\Rulli\SourceCode\BRIDGE-TO-MERGE\version 1.4\Bridge_1-11-2014_ok\IDT\IDTTest\obj\Debug\IDTTest.Properties.Resources.resources
+F:\Backup\TIOs\Rulli\SourceCode\BRIDGE-TO-MERGE\version 1.4\Bridge_1-11-2014_ok\IDT\IDTTest\obj\Debug\IDTTest.csproj.GenerateResource.Cache
+F:\Backup\TIOs\Rulli\SourceCode\BRIDGE-TO-MERGE\version 1.4\Bridge_1-11-2014_ok\IDT\IDTTest\obj\Debug\IDTTest.exe
+F:\Backup\TIOs\Rulli\SourceCode\BRIDGE-TO-MERGE\version 1.4\Bridge_1-11-2014_ok\IDT\IDTTest\obj\Debug\IDTTest.pdb
